@@ -4,7 +4,7 @@
 		<DisplayName>importanylandsat</DisplayName>
 		<Port Name="Input Directory">
 			<DisplayName>Input Directory</DisplayName>
-			<Description>Directory containing .tar.gz files to be unpacked.</Description>
+			<Description>The directory containing .tar.gz files to be unpacked.</Description>
 			<Input>true</Input>
 			<Output>false</Output>
 			<Hidden>false</Hidden>
